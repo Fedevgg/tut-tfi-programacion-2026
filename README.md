@@ -27,3 +27,10 @@ Python
 ## Descripción
 
 Diferentes algoritmos que cumplan con las condiciones especificadas en los ejercicios. (ver pdf)
+
+---
+
+El ejercicio 9 necesita la librerías `networkx` y `matplotlib`, por lo que debe ejecutarse en
+Google Colab que lo incluye en sus notebooks, para pruebas locales fue desarrollado con
+las ultimas versiones disponibles a la fecha (networkx-3.6.1 y matplotlib-3.11.0) instaladas
+en un entorno virtual
