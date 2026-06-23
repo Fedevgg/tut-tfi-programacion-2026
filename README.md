@@ -2,13 +2,10 @@
 
 ## Integrantes del equipo
 
-_Optamos por conservar la agrupación generada en la primer práctica de clase_
+_Optamos por conservar la agrupación generada en la primer práctica de clase.Realizamos los ejercicios juntos y nos dividimos para la entrega final_
 
 - Lautaro Martin Nuñez - Lautiin02
-- Christian Martin Drewes - Drewesss
-- Máximo Busmail - maxibusma
 - Ramon Augusto Nievas - Elshon20
-- Bautista Delagñola
 - Federico Viggiani - fedevgg
 
 ## Carrera
