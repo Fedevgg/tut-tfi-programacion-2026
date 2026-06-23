@@ -5,7 +5,7 @@
 // debe ser mostrada al usuario.
 // Fórmula: interés = capital * tasa * tiempo
 
-Algoritmo Interes
+Algoritmo Intereses
 	Definir capital, tiempo, tasa, interes Como Real
 	tasa <- 0.10
 	Escribir "Tasa de interés: 10%"
