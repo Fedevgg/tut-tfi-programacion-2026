@@ -2,7 +2,7 @@
 
 ## Integrantes del equipo
 
-_Optamos por conservar la agrupación generada en la primer práctica de clase. Realizamos los ejercicios juntos y nos dividimos para la entrega final_
+_Optamos por conservar la agrupación generada en la primer práctica de clase. Realizamos los ejercicios juntos y nos dividimos para la entrega final._
 
 - Lautaro Martin Nuñez - Lautiin02
 - Ramon Augusto Nievas - Elshon20
